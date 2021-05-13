@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I'm Gerald Gabriel, a developer progressing to growth in this new area .                            
+Hi, I'm Alessandra Miria, a developer progressing to growth in this new area .                            
 
 - [👔 Social](#-social-)
 
